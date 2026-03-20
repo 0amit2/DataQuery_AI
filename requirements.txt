@@ -1,6 +1,0 @@
-langchain-community
-langchain_google_genai
-python-docx
-pypdf
-chromadb
-stramlit
